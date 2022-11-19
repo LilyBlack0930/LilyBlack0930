@@ -20,6 +20,8 @@
   - Dice!抽卡核心的NoneBot2重写
 - 在列但尚未进行的项目：
   - 其他的Dice!脚本迁移与重写
+- 想学：
+  - ![](https://img.shields.io/badge/-Blender-orange)
 
 ----
 
