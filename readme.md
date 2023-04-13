@@ -18,15 +18,16 @@ NoneBot2的项目为了未来的拉取方便目前是放在gitee的
   - 像素画：![](https://img.shields.io/badge/-Dotpict-ff69b4) ![](https://img.shields.io/badge/-Aseprite-eeeeee)
 - 正在进行的项目：
   - Dice!插件兔兔鱼塘的重新设计与NoneBot2重写
+- 在列但尚未进行的项目：
+  - 其他的Dice!脚本迁移与重写
   - log功能、bot on/off功能的NoneBot2插件
 - 最近做完了的项目：
   - Dice!骰点核心的NoneBot2重写
   - Dice!抽卡核心的NoneBot2重写
-- 在列但尚未进行的项目：
-  - 其他的Dice!脚本迁移与重写
 - 想学：
   - ![](https://img.shields.io/badge/-Blender-orange)
-
+- 白日梦：
+  - 以自己为原型炼一个聊天机器人或发推机器人
 ----
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LilyBlack0930&layout=compact" height="180"/> <img src="https://github-readme-stats.vercel.app/api?username=LilyBlack0930&show_icons=true&count_private=true" height="180"/>
